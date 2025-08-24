@@ -11,7 +11,7 @@ You can:
 
 How to Run
 . Clone the repository
-. git clone https://github.com/Aniketbisht31/image-similarity--app.git
+. git clone https://github.com/Aniketbisht31/Image-similarity--app.git
 . cd image-similarity-app
 . Set up the virtual environment
 . python -m venv venv
